@@ -10,3 +10,8 @@ Continue your scrolling until the appearance of "Roblox" (URL: Roblox) captures 
 And now, you may be intrigued as to how this extension was fashioned (a relatively undemanding task).
 
 (ChatGTP)
+
+
+
+
+### Important change anything and it may break the extension (by the way) don't try to steal the extension and trying to be a cheecky little devil and make it as yours 

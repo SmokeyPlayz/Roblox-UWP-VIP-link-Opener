@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Roblox Link Wizard by DH_Heister",
+  "version": "1.0",
+  "description": "Convert Roblox game URLs to Roblox protocol links.",
+  "permissions": ["tabs"],
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "48": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://www.roblox.com/games/*/Catalog-*"],
+      "js": ["content_script.js"]
+    }
+  ]
+}
